@@ -1,0 +1,23 @@
+{
+    "name": "burrbd/assetic-dump-command",
+    "description": "Command for dumping assetic assets from twig template configuration",
+    "require": {
+        "php": ">=5.3.0",
+        "kriswallsmith/assetic": "~1.2",
+        "twig/twig": "~1.15",
+        "symfony/console": "~2.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "B. Dodd",
+            "email": "burrbd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Burrbd\\": "src/"
+        }
+    }
+}
