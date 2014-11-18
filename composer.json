@@ -3,7 +3,7 @@
     "description": "Command for dumping assetic assets from twig template configuration",
     "require": {
         "php": ">=5.3.0",
-        "kriswallsmith/assetic": "~1.2",
+        "kriswallsmith/assetic": "1.2.0",
         "twig/twig": "~1.15",
         "symfony/console": "~2.3"
     },
